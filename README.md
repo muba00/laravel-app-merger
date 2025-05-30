@@ -12,7 +12,7 @@ This Laravel package will merge all the relevant code from your Laravel app into
 You can install the package via composer:
 
 ```bash
-composer require :vendor_slug/:package_slug
+composer require muba00/laravel-app-merger
 ```
 
 You can publish the config file with:
